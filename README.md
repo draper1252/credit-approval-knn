@@ -28,7 +28,7 @@ This project uses the UCI Credit Approval dataset to build a K-Nearest Neighbors
 - Confusion matrix displayed to show performance
 
 ## Files
-- `GroupProject_KNN.R`: Main R script with full data workflow
+- `CreditApproval_KNN.R`: Main R script with full data workflow
 - `crx.data`: Original dataset (optional — can be downloaded directly if not included)
 
 ## What I Learned
